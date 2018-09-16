@@ -7,3 +7,5 @@ A documentation of my 100 days of code challenge
 * Day 2
   > Completed the MLCC course today. Glad that i did something in ML. Other than that, laptop broke down. So i may not post for a couple days or more.
 
+* Day 3
+  > Could only manage to watch a video. [Firestore video](https://m.youtube.com/watch?v=o7d5Zeic63s&t=0s&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ&index=5) [Firebase IO](https://youtu.be/VTkM5BbnslU)
