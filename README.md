@@ -9,3 +9,6 @@ A documentation of my 100 days of code challenge
 
 * Day 3
   > Could only manage to watch a video. [Firestore video](https://m.youtube.com/watch?v=o7d5Zeic63s&t=0s&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ&index=5) [Firebase IO](https://youtu.be/VTkM5BbnslU)
+
+* Day 4
+  > Managed to watch a [video interview](https://m.youtube.com/watch?v=F_QdJ-spWgg). Dont know how long till normal routine resumes.
