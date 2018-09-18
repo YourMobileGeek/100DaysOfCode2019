@@ -12,3 +12,7 @@ A documentation of my 100 days of code challenge
 
 * Day 4
   > Managed to watch a [video interview](https://m.youtube.com/watch?v=F_QdJ-spWgg). Dont know how long till normal routine resumes.
+
+* Day 5
+  > [polyfills](https://youtu.be/RoVy9EoIloQ)
+
