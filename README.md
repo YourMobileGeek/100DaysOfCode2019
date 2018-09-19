@@ -16,3 +16,5 @@ A documentation of my 100 days of code challenge
 * Day 5
   > [polyfills](https://youtu.be/RoVy9EoIloQ)
 
+* Day 6
+  > Listened to a podcast on debugging by Codepen Radio.
