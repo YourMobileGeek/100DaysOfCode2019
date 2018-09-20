@@ -18,3 +18,6 @@ A documentation of my 100 days of code challenge
 
 * Day 6
   > Listened to a podcast on debugging by Codepen Radio.
+
+* Day 7
+  > Listened to a podcast from Google's Designer vs Developer.
