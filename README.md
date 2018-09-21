@@ -21,3 +21,7 @@ A documentation of my 100 days of code challenge
 
 * Day 7
   > Listened to a podcast from Google's Designer vs Developer.
+
+* Day 8
+  > Completed a module of the Pluralsight course. It was about services in angular. Laptop is ok now, cost me a lot though.
+
