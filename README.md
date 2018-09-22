@@ -25,3 +25,5 @@ A documentation of my 100 days of code challenge
 * Day 8
   > Completed a module of the Pluralsight course. It was about services in angular. Laptop is ok now, cost me a lot though.
 
+* Day 8
+  > Completed 2 more modules of the Pluralsight course. The modules covered Navigation and routing between views (single page app issues).
