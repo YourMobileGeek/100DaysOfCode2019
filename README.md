@@ -30,3 +30,7 @@ A documentation of my 100 days of code challenge
 
 * Day 9
   > Completed 2 more modules and hence the course. The repo is complete as well. Last part was about fine tuning the routing and finishing up. There was a module about modules of Angular. Also, i tried making the tensorflow [codelab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0) in a python notebook. It may not be pushed here (I'll think about it). Other than that, i am trying to implement an algo in a pen. Currently i am searching for the bug in it (have been searching for a while). Maybe i'll push it here tomorrow.
+
+* Day 10
+  > Completed the algo. pushed [here](https://github.com/kaydee/Some-Pens) too. Working link will be posted soon.
+  
