@@ -34,3 +34,5 @@ A documentation of my 100 days of code challenge
 * Day 10
   > Completed the algo. pushed [here](https://github.com/kaydee/Some-Pens) too. Working link will be posted soon. UPDATE: working [link](https://codepen.io/KayD33/full/vzwVBj/)
   
+* Day 11
+  > Almost completed the algorithm thing. Just minor UI stuff left. Looking pretty good too.
