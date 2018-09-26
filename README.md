@@ -36,3 +36,7 @@ A documentation of my 100 days of code challenge
   
 * Day 11
   > Almost completed the algorithm thing. Just minor UI stuff left. Looking pretty good too.
+
+* Day 12
+  > The algorithm is done. Now maybe i will work on a more advanced version of it next week. Also, spent the rest of the day surfing for suitable repos. *Preparing for Hacktoberfest*. So far, i have 3. 2 more to go.
+
