@@ -40,3 +40,6 @@ A documentation of my 100 days of code challenge
 * Day 12
   > The algorithm is done. Now maybe i will work on a more advanced version of it next week. Also, spent the rest of the day surfing for suitable repos. *Preparing for Hacktoberfest*. So far, i have 3. 2 more to go.
 
+* Day 13
+  > Continued the search for the repos. Found a few. Will try to find the changes needed on the weekend. I am getting that Hacktober swag, at any cost.
+
