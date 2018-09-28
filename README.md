@@ -43,3 +43,5 @@ A documentation of my 100 days of code challenge
 * Day 13
   > Continued the search for the repos. Found a few. Will try to find the changes needed on the weekend. I am getting that Hacktober swag, at any cost.
 
+* Day 14
+  > Worked on a repo. Made the required changes. Now i'll make a PR after the contest opens. Hope it works. So 1 down: 4 to go.
