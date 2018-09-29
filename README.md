@@ -45,3 +45,6 @@ A documentation of my 100 days of code challenge
 
 * Day 14
   > Worked on a repo. Made the required changes. Now i'll make a PR after the contest opens. Hope it works. So 1 down: 4 to go.
+
+* Day 15
+  > Continued the Repo search. I am aiming for more than 5 now.
