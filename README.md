@@ -48,3 +48,6 @@ A documentation of my 100 days of code challenge
 
 * Day 15
   > Continued the Repo search. I am aiming for more than 5 now.
+
+* Day 16
+  > Didn't do much other than thinking about the PRs that i will make. I only have the repos, not the changes. Other than that, getting ready for the fest.
