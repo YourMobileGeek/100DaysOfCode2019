@@ -51,3 +51,6 @@ A documentation of my 100 days of code challenge
 
 * Day 16
   > Didn't do much other than thinking about the PRs that i will make. I only have the repos, not the changes. Other than that, getting ready for the fest.
+
+* Day 17
+  > Completed the Hacktoberfest challenge today in the morning. Rest of the day i tried a little bit of basic Hackerrank. Trying to get back to online code. Lets see how long i follow this idea.
