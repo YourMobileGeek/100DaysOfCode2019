@@ -54,3 +54,7 @@ A documentation of my 100 days of code challenge
 
 * Day 17
   > Completed the Hacktoberfest challenge today in the morning. Rest of the day i tried a little bit of basic Hackerrank. Trying to get back to online code. Lets see how long i follow this idea.
+
+* Day 18
+  > Did some hackerrank today. Accompanying that were a few short videos on beginner OOPS concepts i thought i need to watch again, just for fun. Wanted to start with alexa, but that will take some time so postponing it.
+
