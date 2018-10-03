@@ -58,3 +58,5 @@ A documentation of my 100 days of code challenge
 * Day 18
   > Did some hackerrank today. Accompanying that were a few short videos on beginner OOPS concepts i thought i need to watch again, just for fun. Wanted to start with alexa, but that will take some time so postponing it.
 
+* Day 19
+  > Did some more Hackerrank today. Difficult finding time these days, don't know why.
