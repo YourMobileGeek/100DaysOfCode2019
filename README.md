@@ -62,5 +62,7 @@ A documentation of my 100 days of code challenge
   > Did some more Hackerrank today. Difficult finding time these days, don't know why.
 
 * Day 20
-  > Did the 30 days of Code thing on Hackerrank. The thing i took from it is that if you are doing it too, do watch the tutorial videos as well. They are very helpful no matter how much you already know. Also watched couple of videos on algos on youtube.
+  > Did the 30 days of Code thing on Hackerrank. The thing i took from it is that if you are doing it too, do watch the tutorial videos as well. They are very helpful no matter how much you already know. Also watched couple of videos on algos on youtube. Update ( added links for the video(s) ): [Tricky JavaScript Interview Questions and Answers
+](https://www.youtube.com/watch?v=qsNxdukPc2U) , [Python Tutorial: if __name__ == '__main__'
+](https://www.youtube.com/watch?v=sugvnHA7ElY)
 
