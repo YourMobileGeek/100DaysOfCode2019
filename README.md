@@ -60,3 +60,7 @@ A documentation of my 100 days of code challenge
 
 * Day 19
   > Did some more Hackerrank today. Difficult finding time these days, don't know why.
+
+* Day 20
+  > Did the 30 days of Code thing on Hackerrank. The thing i took from it is that if you are doing it too, do watch the tutorial videos as well. They are very helpful no matter how much you already know. Also watched couple of videos on algos on youtube.
+
