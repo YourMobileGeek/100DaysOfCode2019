@@ -66,3 +66,6 @@ A documentation of my 100 days of code challenge
 ](https://www.youtube.com/watch?v=qsNxdukPc2U) , [Python Tutorial: if __name__ == '__main__'
 ](https://www.youtube.com/watch?v=sugvnHA7ElY)
 
+* Day 21
+  > Tried solving a couple questions. Had to leave them because of shortage of time. Will try tomorrow.
+
