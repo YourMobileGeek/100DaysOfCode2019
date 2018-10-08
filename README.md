@@ -75,3 +75,5 @@ Day 22
 Day 23
   > Successfully completed a medium level question on hackerrank. Its not a lot but took me more than half of the day. Other than that, i have started learning Alexa skill development. Hopfully i have something to show for tomorrow.
 
+Day 24
+  > Spent another day not implementing anything. This time the learning was for Alexa. I did make a few test skills, but nothing good enough to mention. I'll surely make something tomorrow.
