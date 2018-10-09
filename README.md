@@ -77,3 +77,7 @@ Day 23
 
 Day 24
   > Spent another day not implementing anything. This time the learning was for Alexa. I did make a few test skills, but nothing good enough to mention. I'll surely make something tomorrow.
+
+Day 25
+  > Day was spent in searching for various ideas. Sadly, i'm nowhere close to having a good idea. On the bright side, few steps away from deploying my first Alexa skill.
+
