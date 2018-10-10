@@ -81,3 +81,6 @@ Day 24
 Day 25
   > Day was spent in searching for various ideas. Sadly, i'm nowhere close to having a good idea. On the bright side, few steps away from deploying my first Alexa skill.
 
+Day 26
+  > Started working on an Alexa skill. I think the idea is good, just don't know if i'll be successful in implementing it. So far, nowhere close.
+
