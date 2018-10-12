@@ -72,7 +72,7 @@ A documentation of my 100 days of code challenge
 * Day 22
   > Little tired today. Solved only one of the hackerrank questions. It was a simple one.
 
-Day 23
+* Day 23
   > Successfully completed a medium level question on hackerrank. Its not a lot but took me more than half of the day. Other than that, i have started learning Alexa skill development. Hopfully i have something to show for tomorrow.
 
 Day 24
