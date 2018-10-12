@@ -84,7 +84,7 @@ A documentation of my 100 days of code challenge
 * Day 26
   > Started working on an Alexa skill. I think the idea is good, just don't know if i'll be successful in implementing it. So far, nowhere close.
 
-Day 27
+* Day 27
   > Still working on the skill. Came across a diffculty, It involves figuring out how to save data that the user might need. Its a big one.  Dont know if i'll overcome it or drop the skill.
   
 * Day 28
