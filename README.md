@@ -69,7 +69,7 @@ A documentation of my 100 days of code challenge
 * Day 21
   > Tried solving a couple questions. Had to leave them because of shortage of time. Will try tomorrow.
 
-Day 22
+* Day 22
   > Little tired today. Solved only one of the hackerrank questions. It was a simple one.
 
 Day 23
