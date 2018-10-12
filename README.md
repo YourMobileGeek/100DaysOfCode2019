@@ -87,5 +87,6 @@ Day 26
 Day 27
   > Still working on the skill. Came across a diffculty, It involves figuring out how to save data that the user might need. Its a big one.  Dont know if i'll overcome it or drop the skill.
   
-
+* Day 28
+  > Spent the day on codechef. No skill developing today (yesterday). Maybe i'll do it today, if i get the time.
 
