@@ -90,3 +90,6 @@ A documentation of my 100 days of code challenge
 * Day 28
   > Spent the day on codechef. No skill developing today (yesterday). Maybe i'll do it today, if i get the time.
 
+* Day 29
+  > Tried solving chef's problems. Failed miserably. Then continued working on the skill. I am currently in a ditch there too. For some reason, the database stuff is interfering with the node stuff. I don't really appreciate it but i'll try to fix it tomorrow.
+
