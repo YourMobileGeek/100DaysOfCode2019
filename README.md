@@ -93,3 +93,6 @@ A documentation of my 100 days of code challenge
 * Day 29
   > Tried solving chef's problems. Failed miserably. Then continued working on the skill. I am currently in a ditch there too. For some reason, the database stuff is interfering with the node stuff. I don't really appreciate it but i'll try to fix it tomorrow.
 
+* Day 30
+  > Completed the skill. Ran into quite a fiasco when i came to know that it doesnt support English-IN (which is like my main target audience). I thought adding a language would be easy, just add a new language. But  what i didn't know was that every language needs a new model and a new lambda corresponding to the new language location. Took me the day to do that. Not going to do that for my previous skill though. Other than that i think the next couple days will be spent thinking of a new idea for a skill.
+
