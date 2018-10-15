@@ -96,3 +96,6 @@ A documentation of my 100 days of code challenge
 * Day 30
   > Completed the skill. Ran into quite a fiasco when i came to know that it doesnt support English-IN (which is like my main target audience). I thought adding a language would be easy, just add a new language. But  what i didn't know was that every language needs a new model and a new lambda corresponding to the new language location. Took me the day to do that. Not going to do that for my previous skill though. Other than that i think the next couple days will be spent thinking of a new idea for a skill.
 
+* Day 31
+  > Did another codechef problem and attempted another one. Also, amongst the thoughts, i am still nowhere close to my next skill. I have a week, not more than that to develop and deploy my skill.
+
