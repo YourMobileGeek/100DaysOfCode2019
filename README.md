@@ -99,3 +99,6 @@ A documentation of my 100 days of code challenge
 * Day 31
   > Did another codechef problem and attempted another one. Also, amongst the thoughts, i am still nowhere close to my next skill. I have a week, not more than that to develop and deploy my skill.
 
+* Day 32
+  > Started working on a new skill. It's a simple quiz skill, bit of a letdown after the message conveying skill, but its ok. Hope i get that echo i'm working for.
+
