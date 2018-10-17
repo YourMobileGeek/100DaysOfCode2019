@@ -102,3 +102,6 @@ A documentation of my 100 days of code challenge
 * Day 32
   > Started working on a new skill. It's a simple quiz skill, bit of a letdown after the message conveying skill, but its ok. Hope i get that echo i'm working for.
 
+* Day 33
+  > Banging my head because of one error, that is not even supposed to happen. Spent the whole day on it and i'm still clueless. Its a kind of error that is preventing my publishing of the skill. I hope i find it before going crazy, because without help, i might.
+
