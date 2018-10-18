@@ -105,3 +105,6 @@ A documentation of my 100 days of code challenge
 * Day 33
   > Banging my head because of one error, that is not even supposed to happen. Spent the whole day on it and i'm still clueless. Its a kind of error that is preventing my publishing of the skill. I hope i find it before going crazy, because without help, i might.*UPDATE*: after 12 hours of try, that bug is fixed. Now i have another one, the data i need in the DB is being written somewhere not in my DB. Need to figure out where and why.
 
+* Day 34
+  > 11 hrs today. I'm tired. One of skill i submitted before got rejected and that took a long time. Also, the persisting error that i wrote about earlier also took a long time, but eventually was fixed. The alexa developer community is still budding and not that big. Could just be my opinion because of the experiences with the JS community. Still, people are helpful. Also, if you are using [this](https://github.com/alexa/skill-sample-nodejs-trivia) repo as template, you should know that this is buggy and you need to fix it. A very helpful [pull request](https://github.com/alexa/skill-sample-nodejs-trivia/pull/41/files) (if it is not already merged at the time of your reading). Maybe i will push a repo helping alexa starters (if i remember to do so).
+
