@@ -108,3 +108,6 @@ A documentation of my 100 days of code challenge
 * Day 34
   > 11 hrs today. I'm tired. One of skill i submitted before got rejected and that took a long time. Also, the persisting error that i wrote about earlier also took a long time, but eventually was fixed. The alexa developer community is still budding and not that big. Could just be my opinion because of the experiences with the JS community. Still, people are helpful. Also, if you are using [this](https://github.com/alexa/skill-sample-nodejs-trivia) repo as template, you should know that this is buggy and you need to fix it. A very helpful [pull request](https://github.com/alexa/skill-sample-nodejs-trivia/pull/41/files) (if it is not already merged at the time of your reading). Maybe i will push a repo helping alexa starters (if i remember to do so).
 
+* Day 35
+  > Light stuff today. Only a few videos on youtube. Was saving my energy for [Snackdown 2019](https://www.codechef.com/snackdown), which btw went horrible. Only solved 2 questions out of 5. Not selecting for the next round, thats for sure. Not happy today.
+
