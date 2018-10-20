@@ -111,3 +111,6 @@ A documentation of my 100 days of code challenge
 * Day 35
   > Light stuff today. Only a few videos on youtube. Was saving my energy for [Snackdown 2019](https://www.codechef.com/snackdown), which btw went horrible. Only solved 2 questions out of 5. Not selecting for the next round, thats for sure. Not happy today.
 
+* Day 36
+  > Watched videos today. Wide range, from interviews to tutorials of different techs, even theory videos (like concepts in CS). Came accross a video, (link [here](https://www.youtube.com/watch?v=Xs4uzHm_8-o)) about snappy scroll feature in CSS. I have to say i am not happy about it. Mainly because i have seen good websites ruin themselves by implementing it. Its a very selective feature that can either boost your storytelling or bust up your UX. Today was basically thinking about what to do next. I do have a lot of things to do. Can't do them all at once. Maybe i'll start something tomorrow.
+
