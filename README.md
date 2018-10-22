@@ -116,3 +116,7 @@ A documentation of my 100 days of code challenge
 
 * Day 37
   > Two out of six of my PRs for hacktoberfest have been closed without merging. They weren't anything good, but i did think they would be merged. Anyways one of the alexa skill got rejected again saying that it wasn't showing the cards on the *echo spot*. Apparently, it has a screen and it helps if appropriate cards are shown with the audio. Found the commands from the docs (*failed*), then came back to Stack Overflow. So submitted it and being a weekend, i have to wait for tuesday for another rejection. Other than that, a video and a podcast was all i could do today. (Sunday)
+
+* Day 38
+  > The skill got approved finally. It is on the amazon india store named *Indian Culture Quiz*. Its a simple quiz game but in hindi. Also, i was thinking of making something in react but i only did hackerrank today. React has to wait for a while.
+
