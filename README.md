@@ -120,3 +120,5 @@ A documentation of my 100 days of code challenge
 * Day 38
   > The skill got approved finally. It is on the amazon india store named *Indian Culture Quiz*. Its a simple quiz game but in hindi. Also, i was thinking of making something in react but i only did hackerrank today. React has to wait for a while.
 
+* Day 39
+  > Decided to start the React thing today. But ```create-react-app``` decided to delete itself for some reason. Other than that, now that its version two came out, it has some specific requirements that i didn't match. Then upgrading node is a pain because i have to remember how i installed it in first place. Got tired and uninstalled and reinstalled node. Now i created the base app and pushing that here (in a bit). Will start real work from tomorrow. I did try (and complete) one hackerrank problem, easy level.
