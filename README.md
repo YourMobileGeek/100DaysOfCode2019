@@ -125,3 +125,7 @@ A documentation of my 100 days of code challenge
 
 * Day 40
   > Watched a talk on web assembly today ([Link](https://www.youtube.com/watch?v=HktWin_LPf4)). Also, working on the react thing. Not in a good mood so not writing much. The video was good.
+
+* Day 41
+  > A couple of Easy level Hackerrank problems was all i could manage to do today. In need of serious working for a while now.
+
