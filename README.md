@@ -129,3 +129,5 @@ A documentation of my 100 days of code challenge
 * Day 41
   > A couple of Easy level Hackerrank problems was all i could manage to do today. In need of serious working for a while now.
 
+* Day 42
+  > Third alexa skill was rejected today. Its almost October end and i haven't completed my challenge. Spent the whole day trying to find a fix for the problem. I'll explain the problem once it gets accepted in time.
