@@ -131,3 +131,7 @@ A documentation of my 100 days of code challenge
 
 * Day 42
   > Third alexa skill was rejected today. Its almost October end and i haven't completed my challenge. Spent the whole day trying to find a fix for the problem. I'll explain the problem once it gets accepted in time.
+
+* Day 43
+  > Submitted the skill again after small changes. Not really sure if it even works. Its weekend again and the month is almost over, so maybe i may not be able to complete the challenge. Other than that, i attempted the first set of problems in the *October Easy '18* on Hackerearth. Solved one out of the three. Also, worked on the react thing too. Holiday today, so managed to do more than everyday.
+
