@@ -135,3 +135,7 @@ A documentation of my 100 days of code challenge
 * Day 43
   > Submitted the skill again after small changes. Not really sure if it even works. Its weekend again and the month is almost over, so maybe i may not be able to complete the challenge. Other than that, i attempted the first set of problems in the *October Easy '18* on Hackerearth. Solved one out of the three. Also, worked on the react thing too. Holiday today, so managed to do more than everyday.
 
+* Day 44
+  > Attended Devfest '18 today, so i guess i won't be failing the challenge as of today. But to make sure of it, i did solve one problem of hackerrank. Fest was good, my first ever. Attended some good talks by cool speakers. If you get a chance, listen to [the dagger](https://github.com/the-dagger) at least once. Other than that, i needed some speakers i needed to talk to today, but social issues. Tired today.
+
+
