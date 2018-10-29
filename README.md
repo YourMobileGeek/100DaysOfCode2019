@@ -138,4 +138,6 @@ A documentation of my 100 days of code challenge
 * Day 44
   > Attended Devfest '18 today, so i guess i won't be failing the challenge as of today. But to make sure of it, i did solve one problem of hackerrank. Fest was good, my first ever. Attended some good talks by cool speakers. If you get a chance, listen to [the dagger](https://github.com/the-dagger) at least once. Other than that, i needed some speakers i needed to talk to today, but social issues. Tired today.
 
+* Day 45
+  > My skill didn't get a review and its almost the end of the month. So, i decided and made another one of the simple skills. Just to be on the safe side. I need those perks. Other than that i was searching for an ML project. I do have some interesting choices. Will share once i finalise.
 
