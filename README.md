@@ -141,3 +141,6 @@ A documentation of my 100 days of code challenge
 * Day 45
   > My skill didn't get a review and its almost the end of the month. So, i decided and made another one of the simple skills. Just to be on the safe side. I need those perks. Other than that i was searching for an ML project. I do have some interesting choices. Will share once i finalise.
 
+* Day 46
+  > Attended an event today by Google. It was a good event, just not really for me. Spent the whole day there.
+
