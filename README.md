@@ -144,3 +144,5 @@ A documentation of my 100 days of code challenge
 * Day 46
   > Attended an event today by Google. It was a good event, just not really for me. Spent the whole day there.
 
+* Day 47
+  > Worked on the react thing. Only couple day work left on that. Hope i finish before weekend. I want to start something new.
