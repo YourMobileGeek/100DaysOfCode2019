@@ -146,3 +146,7 @@ A documentation of my 100 days of code challenge
 
 * Day 47
   > Worked on the react thing. Only couple day work left on that. Hope i finish before weekend. I want to start something new.
+
+* Day 48
+  > Going really slow on the React thing. I'll try to take out time tomorrow.
+
