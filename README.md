@@ -150,3 +150,5 @@ A documentation of my 100 days of code challenge
 * Day 48
   > Going really slow on the React thing. I'll try to take out time tomorrow.
 
+* Day 49
+  > I was thinking about making a fractal or two since morning. So i made a *Mandelbrot Set* [here](https://github.com/KayDee/Some-Pens/tree/master/Mandlebrot%20Set). Took a little while to find a page where they explained coloring the set with a programmer's point of view. Other than that i am struggling with the React project. It was a page, but considering the obstacles, i've got to call it a project. The tutorial i'm learning from is either outdated or filled with bugs. Apart from the basic stuff, nothing is seem to be working. I'm myself surprised when i fix one of the bugs, like how do i know to do that stuff. I hope i can fix it all the way. It will take more time than i thought. Other than that, my application for *Github Campus Experts* has been accepted.
