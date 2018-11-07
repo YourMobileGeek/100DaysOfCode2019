@@ -158,3 +158,6 @@ A documentation of my 100 days of code challenge
 
 * Day 51
   > Pushed the Julia set today. Didn't animate it, i tried, but it is very laggy even on a 150 pixel surface. I guess my code isn't optimised. It will work in *Processing*. But i won't do it. Other than that, watched a video on *this* in JS. Now, fir the good news, my skill that was stuck for a long time was finally accepted today. Three skills published now. Also, i got an email saying that i passed the nomination round for [*Developer Students Club*](https://medium.com/@walkytalkyshubham/developer-student-club-by-subham-kumar-8f674a0f0aa4) of my college. Now have to work on the selection round. Fingers crossed.
+
+* Day 52
+  > The first exercise of GHCE took a lot of time. Couldn't do anything else. I was travelling today, came back around noon.
