@@ -161,3 +161,6 @@ A documentation of my 100 days of code challenge
 
 * Day 52
   > The first exercise of GHCE took a lot of time. Couldn't do anything else. I was travelling today, came back around noon.
+
+* Day - -
+ > Happy Diwali !! I kinda took the day off today. I don't know if i lost the challenge officialy, but i am going to let me go with a warning today. Still in the challenge
