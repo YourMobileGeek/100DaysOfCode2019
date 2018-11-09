@@ -167,3 +167,7 @@ A documentation of my 100 days of code challenge
 
 * Day 53
   > Today was tiring. Most of the day, almost all of it was spent learning ML and its aplications. It was exciting seeing so many things built with it. There are so many libraries out there [tensorflow](https://tensorflow.org), [keras](https://keras.io), [ml5.js](https://ml5js.org) that either lets you work out of the box or help make you whole process a lot easier (maybe they both are the same thing, who knows). Learning more tomorrow. EDIT: **14 hrs** straight. Thats what a day of proper sleep gives me the next day.
+
+* Day 54
+  > Wasted first half of the day. Spent the second half of second half of the day in figuring out the errors in the Object Detection program that i was building. Now it 12:15 and finally it is done. You can check it out [here](https://github.com/KayDee/Detect-All). I will have to write a pretty detailed README for this to be any useful. Other than that, i have completely forgotten about my DSC and GitHub CE applications. I'll try to spend tomorrow working on those (if i remember). I do suspect a major distraction coming my way (just a feeling).
+
