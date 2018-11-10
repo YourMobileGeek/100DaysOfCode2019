@@ -171,3 +171,5 @@ A documentation of my 100 days of code challenge
 * Day 54
   > Wasted first half of the day. Spent the second half of second half of the day in figuring out the errors in the Object Detection program that i was building. Now it 12:15 and finally it is done. You can check it out [here](https://github.com/KayDee/Detect-All). I will have to write a pretty detailed README for this to be any useful. Other than that, i have completely forgotten about my DSC and GitHub CE applications. I'll try to spend tomorrow working on those (if i remember). I do suspect a major distraction coming my way (just a feeling).
 
+* Day 55
+  > Drafted my Letter of Recommedation for the DSC position and completed Module 2 of GHCE exercise. In the code department, i could only manage to watch a video on JS best practices (don't know how many i've seen now). Tomorrow i have the task of figuring out what to say in my video application for DSC.
