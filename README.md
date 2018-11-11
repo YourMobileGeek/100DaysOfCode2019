@@ -173,3 +173,6 @@ A documentation of my 100 days of code challenge
 
 * Day 55
   > Drafted my Letter of Recommedation for the DSC position and completed Module 2 of GHCE exercise. In the code department, i could only manage to watch a video on JS best practices (don't know how many i've seen now). Tomorrow i have the task of figuring out what to say in my video application for DSC.
+
+* Day 56
+  > Worked on the DSC application that i have to submit tomorrow. Other than that, the object detection thing is giving errors again after a slight change (i want it to work offline, not as a notebook). So, it will be a while before i can fix that.
