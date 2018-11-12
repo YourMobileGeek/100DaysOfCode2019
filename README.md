@@ -176,3 +176,7 @@ A documentation of my 100 days of code challenge
 
 * Day 56
   > Worked on the DSC application that i have to submit tomorrow. Other than that, the object detection thing is giving errors again after a slight change (i want it to work offline, not as a notebook). So, it will be a while before i can fix that.
+
+* Day 57
+  > Done with the Object detection in every way. It was just a one line thing that was giving the error. Apparently one of the modules had set the OS for the second time. Once you comment the *second time* line, it ran. Other than that, submitted the DSC application. Spent the whole day with just two videos and the *i'm free now* feeling. Just now remembered about the GHCE application. Got to work on it tomorrow.
+
