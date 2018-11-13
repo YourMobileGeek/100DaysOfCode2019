@@ -180,3 +180,5 @@ A documentation of my 100 days of code challenge
 * Day 57
   > Done with the Object detection in every way. It was just a one line thing that was giving the error. Apparently one of the modules had set the OS for the second time. Once you comment the *second time* line, it ran. Other than that, submitted the DSC application. Spent the whole day with just two videos and the *i'm free now* feeling. Just now remembered about the GHCE application. Got to work on it tomorrow.
 
+* Day 58
+  > Made a Lissajous table today. Pushed in *Some-Pens*. Other than that, completed the third module of GHCE too. No serious development happening anytime soon.
