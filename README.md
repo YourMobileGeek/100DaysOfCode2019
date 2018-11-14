@@ -182,3 +182,6 @@ A documentation of my 100 days of code challenge
 
 * Day 58
   > Made a Lissajous table today. Pushed in *Some-Pens*. Other than that, completed the third module of GHCE too. No serious development happening anytime soon.
+
+* Day 59
+  > Spent the day making (copying) and fixing a Google Drive API client in Java. There are a lit of errors. Some i fixed. Major ones still remain. Tired today. RIP Stan Lee. I want to say thank you.
