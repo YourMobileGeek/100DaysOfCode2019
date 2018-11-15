@@ -185,3 +185,8 @@ A documentation of my 100 days of code challenge
 
 * Day 59
   > Spent the day making (copying) and fixing a Google Drive API client in Java. There are a lit of errors. Some i fixed. Major ones still remain. Tired today. RIP Stan Lee. I want to say thank you.
+
+* Day 60
+  > Made a Drive API client in Java today. Not worth uploading though. My advice, stick to the official documentation, don't go to other links. They have different implementations.
+
+
