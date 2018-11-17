@@ -192,4 +192,7 @@ A documentation of my 100 days of code challenge
 * Day 61
   > Bug fixing in PHP today. Other than that only youtube and a bit of research (youtube) on Data visualisation tools. Small work today, still feeling a bit stressed.
 
+* Day 62
+  > Worked with the Drive API program. Somehow it broke again. Other than that, completed a module of GHCE too. Hopefully i remember to do that tomorrow too. Something else planned for tomorrow too.
+
 
