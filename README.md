@@ -195,4 +195,6 @@ A documentation of my 100 days of code challenge
 * Day 62
   > Worked with the Drive API program. Somehow it broke again. Other than that, completed a module of GHCE too. Hopefully i remember to do that tomorrow too. Something else planned for tomorrow too.
 
+* Day 63
+  > Worked with a lil bit of Java. Other than that youtube video too. So, a regular day, nothing new.
 
