@@ -198,3 +198,6 @@ A documentation of my 100 days of code challenge
 * Day 63
   > Worked with a lil bit of Java. Other than that youtube video too. So, a regular day, nothing new.
 
+* Day 64
+  > Completed one more module of GHCE. Thats it.
+
