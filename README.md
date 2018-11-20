@@ -201,3 +201,6 @@ A documentation of my 100 days of code challenge
 * Day 64
   > Completed one more module of GHCE. Thats it.
 
+* Day 65
+  > A video on web components and an attempt to do the next module too. Wasn't able to complete it, maybe tomorrow.
+
