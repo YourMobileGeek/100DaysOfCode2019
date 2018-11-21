@@ -204,3 +204,5 @@ A documentation of my 100 days of code challenge
 * Day 65
   > A video on web components and an attempt to do the next module too. Wasn't able to complete it, maybe tomorrow.
 
+* Day 66
+  > Completed another module. Also, a [video](https://www.youtube.com/watch?v=uCuTQYf80FU). 
