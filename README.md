@@ -206,3 +206,7 @@ A documentation of my 100 days of code challenge
 
 * Day 66
   > Completed another module. Also, a [video](https://www.youtube.com/watch?v=uCuTQYf80FU). 
+
+* Day 67
+  > Just a [video](https://www.youtube.com/watch?v=plt-iH_47GE)
+
