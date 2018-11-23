@@ -210,3 +210,5 @@ A documentation of my 100 days of code challenge
 * Day 67
   > Just a [video](https://www.youtube.com/watch?v=plt-iH_47GE)
 
+* Day 68
+  > Video [this one](). Also, making a automaton implementation. Hopefully without hardcoding all rules.
