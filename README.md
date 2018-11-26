@@ -219,3 +219,6 @@ A documentation of my 100 days of code challenge
 * Day 70
   > Working for all rules now.
 
+* Day 71
+  > Added minor features to the automata thing.
+
