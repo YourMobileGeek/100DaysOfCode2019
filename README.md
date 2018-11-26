@@ -216,3 +216,6 @@ A documentation of my 100 days of code challenge
 * Day 69
   > Still at hardcoded rules. A lil bit of refactoring was done. Hopefully tomorrow all rules would be added.
 
+* Day 70
+  > Working for all rules now.
+
