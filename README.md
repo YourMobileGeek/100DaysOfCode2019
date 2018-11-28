@@ -223,6 +223,8 @@ A documentation of my 100 days of code challenge
   > Added minor features to the automata thing.
 
 * Day 72
-  > Only research for the next module of GHCE
+  > Only research for the next module of GHCE.
 
-*Day 73
+* Day 73
+  > Made a representation of Langton's ant. Its a repo here. Nowhere near complete yet. Also, maybe i will try to complete the module of GHCE. Let's see.
+
