@@ -228,3 +228,6 @@ A documentation of my 100 days of code challenge
 * Day 73
   > Made a representation of Langton's ant. Its a repo here. Nowhere near complete yet. Also, maybe i will try to complete the module of GHCE. Let's see.
 
+* Day 74
+  > Langton's ant representation working now. The mistake was initialising the array in the wrong way. I made static copies of each of the 2nd dimension. Fixed now
+
