@@ -231,3 +231,6 @@ A documentation of my 100 days of code challenge
 * Day 74
   > Langton's ant representation working now. The mistake was initialising the array in the wrong way. I made static copies of each of the 2nd dimension. Fixed now
 
+* Day 75
+  > Exam preparation today. Took out time for a video on making websites and research for the next website (if choosing that)
+
