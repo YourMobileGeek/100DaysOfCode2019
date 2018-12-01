@@ -234,3 +234,6 @@ A documentation of my 100 days of code challenge
 * Day 75
   > Exam preparation today. Took out time for a video on making websites and research for the next website (if choosing that)
 
+* Day 76
+  > Started a chaos game implementation (not a real game). Lot of work to be done in it. Hopefully it lasts for a few days.
+
