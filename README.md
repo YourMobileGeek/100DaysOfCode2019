@@ -237,3 +237,7 @@ A documentation of my 100 days of code challenge
 * Day 76
   > Started a chaos game implementation (not a real game). Lot of work to be done in it. Hopefully it lasts for a few days.
 
+* Day 77
+  > Couldn't do anything on the chaos game. Watched a video on filters however. I don't really remember which one. Some conference of 2017. It was a good video, a bit of a letdown btw. I admire that speaker very much. 
+
+
