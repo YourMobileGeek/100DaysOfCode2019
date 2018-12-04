@@ -240,4 +240,6 @@ A documentation of my 100 days of code challenge
 * Day 77
   > Couldn't do anything on the chaos game. Watched a video on filters however. I don't really remember which one. Some conference of 2017. It was a good video, a bit of a letdown btw. I admire that speaker very much. 
 
+* Day 78
+  > Lil late on updating today. But worked on the Chaos game a little. Not a lot yet. Maybe complete it today only.
 
