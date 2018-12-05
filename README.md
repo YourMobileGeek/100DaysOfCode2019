@@ -243,3 +243,5 @@ A documentation of my 100 days of code challenge
 * Day 78
   > Lil late on updating today. But worked on the Chaos game a little. Not a lot yet. Maybe complete it today only.
 
+* Day 79
+  > Tried out new patterns. Failed miserably. Just one more day and i'll be done with this.
