@@ -245,3 +245,7 @@ A documentation of my 100 days of code challenge
 
 * Day 79
   > Tried out new patterns. Failed miserably. Just one more day and i'll be done with this.
+
+* Day 80
+  > Done wih the chaos game. Implemented the patterns i was talking about previously. Had to change the conditions rather than using them *as-is* from wikipedia. Next i'm thinking web components for a while.
+
