@@ -249,3 +249,5 @@ A documentation of my 100 days of code challenge
 * Day 80
   > Done wih the chaos game. Implemented the patterns i was talking about previously. Had to change the conditions rather than using them *as-is* from wikipedia. Next i'm thinking web components for a while.
 
+* Day 81
+  
