@@ -250,4 +250,6 @@ A documentation of my 100 days of code challenge
   > Done wih the chaos game. Implemented the patterns i was talking about previously. Had to change the conditions rather than using them *as-is* from wikipedia. Next i'm thinking web components for a while.
 
 * Day 81
-  
+  > Research on web components. The research was of complex stuff, what i'm thinking of doing is much much simpler. Like the things i did in the beginning.
+
+
