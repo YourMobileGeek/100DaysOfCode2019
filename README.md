@@ -252,4 +252,8 @@ A documentation of my 100 days of code challenge
 * Day 81
   > Research on web components. The research was of complex stuff, what i'm thinking of doing is much much simpler. Like the things i did in the beginning.
 
+* Day 82-83
+  > Testing and learning web elements today and yesterday. Whenever you make a template element, it engulfs every child element/content of your custom element. What i want to know is how do i put them in separate templates without actually writing ```<template>``` in my html.
+
+
 
