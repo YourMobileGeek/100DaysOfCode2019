@@ -255,5 +255,8 @@ A documentation of my 100 days of code challenge
 * Day 82-83
   > Testing and learning web elements today and yesterday. Whenever you make a template element, it engulfs every child element/content of your custom element. What i want to know is how do i put them in separate templates without actually writing ```<template>``` in my html.
 
+* Day 84
+  > Finally figured out how to arrange the child elements with the *slot limitations* in custom elements and their styles. Its really cool and more flexible if you can believe that. Will do the main animation tomorrow (most probably)
+
 
 
