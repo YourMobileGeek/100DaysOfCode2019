@@ -258,5 +258,6 @@ A documentation of my 100 days of code challenge
 * Day 84
   > Finally figured out how to arrange the child elements with the *slot limitations* in custom elements and their styles. Its really cool and more flexible if you can believe that. Will do the main animation tomorrow (most probably)
 
-
+* Day 85
+  > Research and preparation of two things. One - next custom element. Two - Something new to do. So a lot of articles and videos today. I found the element, check the repo for the TODO. As for the new thing, i found it too. It'll be fun (that is if i can do it). Details soon.
 
