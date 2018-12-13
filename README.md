@@ -261,3 +261,6 @@ A documentation of my 100 days of code challenge
 * Day 85
   > Research and preparation of two things. One - next custom element. Two - Something new to do. So a lot of articles and videos today. I found the element, check the repo for the TODO. As for the new thing, i found it too. It'll be fun (that is if i can do it). Details soon.
 
+* Day 86
+  > Did a lil bit of work today. Most of it debugging. A mere 20 line code took bloody 3hrs to debug. Also, i do not like the people who just want to publish without maintaining their stuff. I'm talking about software related thing here. The dataset i used created another hour issue for me. Thankfully the dataset was small i could repair it by hand.
+
