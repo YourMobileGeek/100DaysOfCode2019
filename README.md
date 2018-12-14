@@ -264,3 +264,6 @@ A documentation of my 100 days of code challenge
 * Day 86
   > Did a lil bit of work today. Most of it debugging. A mere 20 line code took bloody 3hrs to debug. Also, i do not like the people who just want to publish without maintaining their stuff. I'm talking about software related thing here. The dataset i used created another hour issue for me. Thankfully the dataset was small i could repair it by hand.
 
+* Day 87
+  > While i was looking for different things to make for the thing, i realised that it requires creativity at the basic. So, dropping it for further days. Other than that, JS videos today. I tried to make some illustration with fractals (*i know, again*), failed. I think i'll be doing some lightweight work for the next few days.
+
