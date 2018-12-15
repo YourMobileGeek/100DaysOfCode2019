@@ -267,3 +267,6 @@ A documentation of my 100 days of code challenge
 * Day 87
   > While i was looking for different things to make for the thing, i realised that it requires creativity at the basic. So, dropping it for further days. Other than that, JS videos today. I tried to make some illustration with fractals (*i know, again*), failed. I think i'll be doing some lightweight work for the next few days.
 
+* Day 88
+  > Failed at the fractal thing i wrote yesterday. Gave up after 3 or 4 attempts. I had attempted it before too. This time i tried it in canvas, but too many moving parts with almost no similarity. So i tried Fourier series in canvas. Read the [wiki](https://en.wikipedia.org/wiki/Fourier_series). Made the basic version and a customised version.
+
