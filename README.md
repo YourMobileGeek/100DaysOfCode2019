@@ -270,3 +270,6 @@ A documentation of my 100 days of code challenge
 * Day 88
   > Failed at the fractal thing i wrote yesterday. Gave up after 3 or 4 attempts. I had attempted it before too. This time i tried it in canvas, but too many moving parts with almost no similarity. So i tried Fourier series in canvas. Read the [wiki](https://en.wikipedia.org/wiki/Fourier_series). Made the basic version and a customised version.
 
+* Day 89
+  > Made one more variant in the fourier series. The thing is i wanted to make some illustrations with it like [here](https://www.youtube.com/watch?v=QVuU2YCwHjw). But my system can't really hold through that complex computation, that to in the browser.
+
