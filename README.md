@@ -275,3 +275,7 @@ A documentation of my 100 days of code challenge
 
 * Day 90
   > Working with PHP today. Trying to make a feedback form system that stores the data in database and also mails you the copy of the form too. Completed a high fidelity prototype. Will see if i go any further in.
+
+* Day 91
+  > Watching videos today. Trying to find something to do. I do have an idea and maybe i go forth with it. But before that i'm going forward with a course. Will post here when finished.
+
