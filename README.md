@@ -280,4 +280,4 @@ A documentation of my 100 days of code challenge
   > Watching videos today. Trying to find something to do. I do have an idea and maybe i go forth with it. But before that i'm going forward with a course. Will post here when finished.
 
 * Day 92
-  > Still the same course. A little progress only. Got caught up with other things. Fore warning, i might not be able to complete the challenge. I will try my level best because the coming week is going to be a challenge
+  > Still the same course. A little progress only. Got caught up with other things. Fore warning, i might not be able to complete the challenge. I'll try my level best because the coming week is going to be a challenge
