@@ -281,3 +281,7 @@ A documentation of my 100 days of code challenge
 
 * Day 92
   > Still the same course. A little progress only. Got caught up with other things. Fore warning, i might not be able to complete the challenge. I'll try my level best because the coming week is going to be a challenge
+
+* Day 93
+  > Continuation of the course. Didnt watch much becausr of replaying over and over. So, maybe it can take a full week.
+  
