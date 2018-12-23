@@ -285,3 +285,6 @@ A documentation of my 100 days of code challenge
 * Day 93
   > Continuation of the course. Didnt watch much becausr of replaying over and over. So, maybe it can take a full week.
   
+* Day 94
+  > Trying to learn to make a website (server side thing this time) with node and express. Got stuck on the first step. How to set up routes in express. Everywhere i look, i see people writing different texts on different routes. The real question is how do i serve up different html files on different routes without using a *view-engine*. Can't seem to find that.
+
