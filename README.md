@@ -291,3 +291,6 @@ A documentation of my 100 days of code challenge
 * Day 95
   > Could only manage lil bit of reading of the express docs. Took out some tutorials but none of them seem to help. Also, now i have another problem with something called ```__dirname```. Hope i can fix it soon.
 
+* Day 96
+  > Only a youtube video about the best design trends of 2018. Merry Christmas too.
+
