@@ -294,3 +294,5 @@ A documentation of my 100 days of code challenge
 * Day 96
   > Only a youtube video about the best design trends of 2018. Merry Christmas too.
 
+* Day 97-98
+  > Missed one day of writing here. Didn't have any internet connection. All i could do iwas read up on whatever i had stored.
