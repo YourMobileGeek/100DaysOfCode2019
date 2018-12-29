@@ -297,3 +297,5 @@ A documentation of my 100 days of code challenge
 * Day 97-98
   > Missed one day of writing here. Didn't have any internet connection. All i could do iwas read up on whatever i had stored. Today trying something light illustrations in JS. Also, some numberphile vids too. Almost at the end of the 100 days.
 
+* Day 99
+  > Made a snowflake illustration today.
