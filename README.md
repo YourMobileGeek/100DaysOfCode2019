@@ -299,3 +299,8 @@ A documentation of my 100 days of code challenge
 
 * Day 99
   > Made a snowflake illustration today.
+
+* Day 100
+  > Final day. Have to say, most work done than any day of last couple of weeks. Continued with the course and made an express starter app. Very basic but still, new thing.
+
+--- End ---
